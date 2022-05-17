@@ -128,4 +128,4 @@ MonoBehaviour:
   speed: 2
   ground: {fileID: 0}
   prince: {fileID: 0}
-  offset: {x: 5, y: 0, z: 1}
+  offset: {x: 1, y: 0, z: 1}
